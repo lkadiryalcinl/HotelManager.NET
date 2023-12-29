@@ -1,0 +1,69 @@
+﻿@model CreateContactDto
+
+<div class="container-xxl py-5">
+    <div class="container">
+        <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+            <h6 class="section-title text-center text-primary text-uppercase">Bize Ulaşın</h6>
+            <h1 class="mb-5"><span class="text-primary text-uppercase">Tüm Sorularınız İÇİN</span> Bize Ulaşabilirsiniz</h1>
+        </div>
+        <div class="row g-4">
+            <div class="col-12">
+                <div class="row gy-4">
+                    <div class="col-md-4">
+                        <h6 class="section-title text-start text-primary text-uppercase">Rezervasyon</h6>
+                        <p><i class="fa fa-envelope-open text-primary me-2"></i><a href="mailto:res@hotelier.com">res@hotelier.com</a></p>
+                    </div>
+                    <div class="col-md-4">
+                        <h6 class="section-title text-start text-primary text-uppercase">Bilgi</h6>
+                        <p><i class="fa fa-envelope-open text-primary me-2"></i><a href="mailto:info@hotelier.com">info@hotelier.com</a></p>
+                    </div>
+                    <div class="col-md-4">
+                        <h6 class="section-title text-start text-primary text-uppercase">İş Başvurusu</h6>
+                        <p><i class="fa fa-envelope-open text-primary me-2"></i><a href="mailto:rec@hotelier.com">rec@hotelier.com</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 wow fadeIn" data-wow-delay="0.1s">
+                <iframe class="position-relative rounded w-100 h-100"
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25479.2696891936!2d27.392174338465455!3d37.035822927438176!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14be6c4faeb0d669%3A0x51a6e218f706590a!2zQm9kcnVtLCBNdcSfbGE!5e0!3m2!1str!2str!4v1701530816645!5m2!1str!2str"
+                        frameborder="0" style="min-height: 350px; border:0;" allowfullscreen="" aria-hidden="false"
+                        tabindex="0"></iframe>
+            </div>
+            <div class="col-md-6">
+                <div class="wow fadeInUp" data-wow-delay="0.2s">
+                    <form method="post" asp-action="SendMessage" asp-controller="Contact">
+                        <div class="row g-3">
+                            <div class="col-md-6">
+                                <div class="form-floating">
+                                    <input type="text" required class="form-control" id="name" placeholder="Adınız" asp-for="Name">
+                                    <label for="Name">Adınız*</label>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-floating">
+                                    <input type="email" class="form-control" id="email" placeholder="E-Mail" asp-for="Mail">
+                                    <label for="Mail">E-Mail*</label>
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <div class="form-floating">
+                                    <input type="text" class="form-control" id="subject" placeholder="Konu" asp-for="Subject">
+                                    <label for="Subject">Konu*</label>
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <div class="form-floating">
+                                    <textarea class="form-control" placeholder="Bir mesaj bırakın..." id="message" style="height: 150px" asp-for="Message"></textarea>
+                                    <label for="Message">Bir mesaj bırakın...*</label>
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <button class="btn btn-primary w-100 py-3" type="submit">Mesajı Gönder</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\HotelManager\ApiConsume\HotelManager.DataAccessLayer\bin\Debug\net6.0\HotelManager.DataAccessLayer.deps.json
+C:\Users\ASUS\source\repos\HotelManager\ApiConsume\HotelManager.DataAccessLayer\bin\Debug\net6.0\HotelManager.DataAccessLayer.runtimeconfig.json
+C:\Users\ASUS\source\repos\HotelManager\ApiConsume\HotelManager.DataAccessLayer\bin\Debug\net6.0\HotelManager.DataAccessLayer.dll
+C:\Users\ASUS\source\repos\HotelManager\ApiConsume\HotelManager.DataAccessLayer\bin\Debug\net6.0\HotelManager.DataAccessLayer.pdb
+C:\Users\ASUS\source\repos\HotelManager\ApiConsume\HotelManager.DataAccessLayer\bin\Debug\net6.0\HotelManager.EntityLayer.dll
+C:\Users\ASUS\source\repos\HotelManager\ApiConsume\HotelManager.DataAccessLayer\bin\Debug\net6.0\HotelManager.EntityLayer.pdb
+C:\Users\ASUS\source\repos\HotelManager\ApiConsume\HotelManager.DataAccessLayer\obj\Debug\net6.0\HotelManager.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\HotelManager\ApiConsume\HotelManager.DataAccessLayer\obj\Debug\net6.0\HotelManager.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\HotelManager\ApiConsume\HotelManager.DataAccessLayer\obj\Debug\net6.0\HotelManager.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\HotelManager\ApiConsume\HotelManager.DataAccessLayer\obj\Debug\net6.0\HotelManager.DataAccessLayer.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\HotelManager\ApiConsume\HotelManager.DataAccessLayer\obj\Debug\net6.0\HotelManager.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\HotelManager\ApiConsume\HotelManager.DataAccessLayer\obj\Debug\net6.0\HotelManager.DataAccessLayer.csproj.CopyComplete
+C:\Users\ASUS\source\repos\HotelManager\ApiConsume\HotelManager.DataAccessLayer\obj\Debug\net6.0\HotelManager.DataAccessLayer.dll
+C:\Users\ASUS\source\repos\HotelManager\ApiConsume\HotelManager.DataAccessLayer\obj\Debug\net6.0\refint\HotelManager.DataAccessLayer.dll
+C:\Users\ASUS\source\repos\HotelManager\ApiConsume\HotelManager.DataAccessLayer\obj\Debug\net6.0\HotelManager.DataAccessLayer.pdb
+C:\Users\ASUS\source\repos\HotelManager\ApiConsume\HotelManager.DataAccessLayer\obj\Debug\net6.0\HotelManager.DataAccessLayer.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\HotelManager\ApiConsume\HotelManager.DataAccessLayer\obj\Debug\net6.0\ref\HotelManager.DataAccessLayer.dll

@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\HotelManager\ApiConsume\HotelManager.EntityLayer\bin\Debug\net6.0\HotelManager.EntityLayer.deps.json
+C:\Users\ASUS\source\repos\HotelManager\ApiConsume\HotelManager.EntityLayer\bin\Debug\net6.0\HotelManager.EntityLayer.runtimeconfig.json
+C:\Users\ASUS\source\repos\HotelManager\ApiConsume\HotelManager.EntityLayer\bin\Debug\net6.0\HotelManager.EntityLayer.dll
+C:\Users\ASUS\source\repos\HotelManager\ApiConsume\HotelManager.EntityLayer\bin\Debug\net6.0\HotelManager.EntityLayer.pdb
+C:\Users\ASUS\source\repos\HotelManager\ApiConsume\HotelManager.EntityLayer\obj\Debug\net6.0\HotelManager.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\HotelManager\ApiConsume\HotelManager.EntityLayer\obj\Debug\net6.0\HotelManager.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\HotelManager\ApiConsume\HotelManager.EntityLayer\obj\Debug\net6.0\HotelManager.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\HotelManager\ApiConsume\HotelManager.EntityLayer\obj\Debug\net6.0\HotelManager.EntityLayer.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\HotelManager\ApiConsume\HotelManager.EntityLayer\obj\Debug\net6.0\HotelManager.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\HotelManager\ApiConsume\HotelManager.EntityLayer\obj\Debug\net6.0\HotelManager.EntityLayer.dll
+C:\Users\ASUS\source\repos\HotelManager\ApiConsume\HotelManager.EntityLayer\obj\Debug\net6.0\refint\HotelManager.EntityLayer.dll
+C:\Users\ASUS\source\repos\HotelManager\ApiConsume\HotelManager.EntityLayer\obj\Debug\net6.0\HotelManager.EntityLayer.pdb
+C:\Users\ASUS\source\repos\HotelManager\ApiConsume\HotelManager.EntityLayer\obj\Debug\net6.0\HotelManager.EntityLayer.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\HotelManager\ApiConsume\HotelManager.EntityLayer\obj\Debug\net6.0\ref\HotelManager.EntityLayer.dll

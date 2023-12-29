@@ -1,0 +1,24 @@
+﻿@model UpdateServiceDto
+@{
+    ViewData["Title"] = "UpdateStaff";
+    Layout = "~/Views/AdminLayout/_AdminLayout.cshtml";
+}
+
+<form method="post">
+    <input type="hidden" asp-for="ServiceID" />
+
+    <label>Personel Adı</label>
+    <input type="text" asp-for="Title" class="form-control" />
+    <br />
+
+    <label>Personel Ünvanı</label>
+    <input type="text" asp-for="ServiceIcon" class="form-control" />
+    <br />
+
+    <label>Instagram</label>
+    <input type="text" asp-for="Description" class="form-control" />
+    <br />
+
+    <button class="btn btn-whatsapp">Personeli Güncelle</button>
+</form>
+

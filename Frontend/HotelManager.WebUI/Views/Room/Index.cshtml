@@ -1,0 +1,32 @@
+﻿@model List<ResultRoomDto>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/AdminLayout/_AdminLayout.cshtml";
+}
+
+<table class="table table-bordered">
+    <tr class="align-items-center">
+        <th>Oda ID</th>
+        <th>Oda Numarası</th>
+        <th>Tanımı</th>
+        <th>Fiyatı</th>
+        <th>Güncelle</th>
+        <th>Sil</th>
+        <th>Detaylar</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.RoomID</td>
+            <td>@item.RoomNumber</td>
+            <td>@item.Title</td>
+            <td>@item.Price</td>
+            <td><a href="/Room/UpdateRoom/@item.RoomID" class="btn btn-info">Güncelle</a></td>
+            <td><a href="/Room/DeleteRoom/@item.RoomID" class="btn btn-danger">Sil</a></td>
+            <td><a href="#" class="btn btn-linkedin">Detaylar</a></td>
+        </tr>
+    }
+</table>
+
+<td><a href="/Room/AddRoom" class="btn btn-whatsapp">Yeni Oda Girişi</a></td>
